@@ -1,0 +1,32 @@
+/* Montserrat font*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Concert One font */
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+/* cdn icons */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css');
+
+/* bootstrap link */
+/* @import "~../node_modules/bootstrap/dist/css/bootstrap.min.css"; */
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+/* removes link line */
+a{text-decoration: none; 
+    padding: 0 10px;
+    color: black;
+    font-weight: 700;
+    
+}
+
+
